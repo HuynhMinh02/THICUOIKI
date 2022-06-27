@@ -1,0 +1,152 @@
+[
+  {
+    "bookId": "TC0001",
+    "title": "Sinh li bo may van dong",
+    "author": "PGS.TS. Luu Quang Hiep",
+    "publisher": "NSB Giao Duc",
+    "publishyear": "2007",
+    "rating": 5.0,
+    "amount": 18,
+    "kind": "Tap chi"
+  },
+  {
+    "bookId": "GT0001",
+    "title": "Lam chu ban than de thay doi cuoc song",
+    "author": "Ruth Fishel",
+    "publisher": "Lao Dong",
+    "publishyear": "",
+    "rating": 5.0,
+    "amount": 10,
+    "kind": "Sach danh cho gioi tre"
+  },
+  {
+    "bookId": "CTXH0001",
+    "title": "Hay troi day VIET NAM! Let\u0027s rise, VIET NAM!",
+    "author": "Vu Minh Khuong",
+    "publisher": "Tri Thuc",
+    "publishyear": "2020",
+    "rating": 5.0,
+    "amount": 30,
+    "kind": "Sach Chinh Tri - Xa Hoi"
+  },
+  {
+    "bookId": "VHNT0001",
+    "title": "Nguoi Dua Dieu",
+    "author": "Khaled Hosseini",
+    "publisher": "Phu Nu",
+    "publishyear": "2020",
+    "rating": 5.0,
+    "amount": 15,
+    "kind": "Van Hoc - Nghe Thuat"
+  },
+  {
+    "bookId": "STN0001",
+    "title": "Danh Thuc Bo Nao Con",
+    "author": "Hong Thanh - Nguyen Thi Vi Khanh",
+    "publisher": "Van Hoc",
+    "publishyear": "2020",
+    "rating": 5.0,
+    "amount": 10,
+    "kind": "Sach Thieu Nhi"
+  },
+  {
+    "bookId": "STN0002",
+    "title": "Truyen Ngu Ngon La Fontaine",
+    "author": "Jean de La Fontaine",
+    "publisher": "Van Hoc",
+    "publishyear": "2017",
+    "rating": 5.0,
+    "amount": 5,
+    "kind": "Sach Thieu Nhi"
+  },
+  {
+    "bookId": "GT0002",
+    "title": "Cuoc song cua ban da tot dep chua?",
+    "author": "Marcia Ullett",
+    "publisher": "Thanh Hoa",
+    "publishyear": "2016",
+    "rating": 5.0,
+    "amount": 10,
+    "kind": "Sach danh cho gioi tre"
+  },
+  {
+    "bookId": "KHCN0001",
+    "title": "Suc Bat Cho The He Moi",
+    "author": "Nguyen Hong",
+    "publisher": "Tri Thuc",
+    "publishyear": "2017",
+    "rating": 5.0,
+    "amount": 2,
+    "kind": "Khoa Hoc - Cong Nghe"
+  },
+  {
+    "bookId": "GT0003",
+    "title": "Dac Nhan Tam",
+    "author": "Dale Carnegie",
+    "publisher": "NSB tong hop TP.HCM",
+    "publishyear": "2021",
+    "rating": 5.0,
+    "amount": 50,
+    "kind": "Sach danh cho gioi tre"
+  },
+  {
+    "bookId": "KHCN0002",
+    "title": "Phuong phap luan Dan Da",
+    "author": "Le Minh Tien",
+    "publisher": "Tri Thuc",
+    "publishyear": "2018",
+    "rating": 5.0,
+    "amount": 5,
+    "kind": "Khoa Hoc - Cong Nghe"
+  },
+  {
+    "bookId": "VHNT0002",
+    "title": "Tu Rung Tham AMAZON den Que Huong BOLERO",
+    "author": "Nguyen Tap",
+    "publisher": "NSB tong hop TP.HCM",
+    "publishyear": "",
+    "rating": 5.0,
+    "amount": 10,
+    "kind": "Van Hoc - Nghe Thuat"
+  },
+  {
+    "bookId": "GT0004",
+    "title": "Yeu Nhung Dieu Khong Hoan Hao",
+    "author": "Hae Min",
+    "publisher": "The Gioi",
+    "publishyear": "2018",
+    "rating": 5.0,
+    "amount": 18,
+    "kind": "Sach danh cho gioi tre"
+  },
+  {
+    "bookId": "QLKT0001",
+    "title": "Nha Lanh Dao Khong Chuc Danh (Robin Sharma)",
+    "author": "Robin Sharma - Nguyen Minh Thien Kim dich",
+    "publisher": "Tre",
+    "publishyear": "2020",
+    "rating": 5.0,
+    "amount": 2,
+    "kind": "Quan Li - Kinh Te"
+  },
+  {
+    "bookId": "GT0005",
+    "title": "Chatter - Tro Chuyen Voi Chinh Minh",
+    "author": "Ethan Kross",
+    "publisher": "Van Hoa - Van Nghe",
+    "publishyear": "2019",
+    "rating": 5.0,
+    "amount": 18,
+    "kind": "Sach danh cho gioi tre"
+  },
+  {
+    "bookId": "NDC0001",
+    "title": "Bi an cua Nao Phai",
+    "author": "Makoto Shichida",
+    "publisher": "NSB The Gioi",
+    "publishyear": "2020",
+    "rating": 5.0,
+    "amount": 4,
+    "kind": "Nuoi day con"
+  }
+]

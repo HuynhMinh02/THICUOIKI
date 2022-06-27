@@ -2,6 +2,7 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "c:\\CongNghePhanMem\\CongNghePhanMem\\gson-2.8.9 (2).jar"
     ]
 }

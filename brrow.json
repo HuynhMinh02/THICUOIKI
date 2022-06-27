@@ -1,0 +1,27 @@
+[
+    {
+      "iD": "R00001",
+      "name": "Nguyen Van Anh",
+      "job": "Hoc Sinh",
+      "phoneNumber": "0398989890",
+      "address": "Quan 1",
+      "email": "nva@gmail.com"
+      
+    },
+    {
+      "iD": "R00002",
+      "name": "Tran Van Binh",
+      "job": "Sinh Vien",
+      "phoneNumber": "0312121212",
+      "address": "Quan 2",
+      "email": "tvb@gmail.com"
+    },
+    {
+      "iD": "R00003",
+      "name": "Le Thi Cam",
+      "job": "Sinh Vien",
+      "phoneNumber": "0323232323",
+      "address": "Quan 3",
+      "email": "ltc@gmail.com"
+    }
+]
